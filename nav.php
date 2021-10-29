@@ -5,7 +5,7 @@
 <div class ="navbar">
 	
 	<ul>
-    <li><a href="Log call.php">Log Call</a></li>
+    <li><a href="Logcall.php">LogCall</a></li>
     <li><a href="Update.php">Update</a></li>
     <li><a href="#">Report</a></li>
     <li><a href="#">History</a></li>
